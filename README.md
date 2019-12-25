@@ -1,2 +1,4 @@
-# daily_coding_challenges
-Practice Daily Coding Challenges
+# Daily Coding Challenges
+---
+**Practice Daily Coding Challenges**
+---
